@@ -1,0 +1,15 @@
+@font-face{
+    font-family: "Lexand";
+    src: url(../Font/static/Lexend-Bold.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: "poppins";
+    src: url(../Font/static/Poppins-Bold.ttf);
+    font-weight: 600;
+}
+@font-face{
+    font-family: "open sans";
+    src: url(../Font/static/OpenSans-VariableFont_wdth\,wght.ttf);
+    font-weight: 600;
+}
